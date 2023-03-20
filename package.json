@@ -1,10 +1,10 @@
 {
   "name": "dikaharis",
   "version": "1.0.0",
-  "description": "My personal website",
+  "description": "Personal blog dikaharis.com",
   "private": false,
   "scripts": {
-    "dev": "astro check --watch && astro dev",
+    "dev": "astro check --watch & astro dev",
     "start": "astro dev",
     "build": "astro build && jampack ./dist",
     "preview": "astro preview",
