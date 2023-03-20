@@ -1,6 +1,9 @@
 # build output
 dist/
 
+# JetBrains IDEs
+.idea/
+
 # generated types
 .astro/
 
