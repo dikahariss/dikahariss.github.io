@@ -1,11 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://dikaharis.com/",
+  website: "https://dikaharis.com",
   author: "Dika Haris Abdurahman",
-  desc: "Personal blog dikaharis.com",
-  title: "dikaharis.com",
-  ogImage: "astropaper-og.jpg",
+  desc: "Halo, salam kenal. saya Dika Haris Abdurahman (@dikahariss) seorang Software Engineer, dan co-founder dari Jabar Cipta Informatika.",
+  title: "Dika Haris Abdurahman (@dikahariss) | dikaharis.com",
+  titleHead: "dikaharis.com",
+  ogImage: "dikahariss.jpeg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
