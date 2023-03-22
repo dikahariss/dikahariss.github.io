@@ -46,18 +46,15 @@ jobs:
             echo "Unable to determine packager manager"
             exit 1
           fi
+      - name: Install pnpm globally
+        if: steps.detect-package-manager.outputs.manager == 'pnpm'
+        run: curl -f https://get.pnpm.io/v6.9.js | node - add --global pnpm
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: "16"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
           cache-dependency-path: ${{ env.BUILD_PATH }}/${{ steps.detect-package-manager.outputs.manager == 'pnpm' && 'pnpm-lock.yaml' || (steps.detect-package-manager.outputs.manager == 'npm' && 'package-lock.json' || 'yarn.lock') }}
-      - name: Install pnpm locally
-        if: steps.detect-package-manager.outputs.manager == 'pnpm'
-        run: npm install pnpm
-      - name: Add local pnpm to PATH
-        if: steps.detect-package-manager.outputs.manager == 'pnpm'
-        run: echo "./node_modules/.bin" >> $GITHUB_PATH
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
