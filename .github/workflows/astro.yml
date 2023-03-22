@@ -38,7 +38,7 @@ jobs:
           fi
       - name: Install pnpm globally
         if: steps.detect-package-manager.outputs.manager == 'pnpm'
-        run: curl -f https://get.pnpm.io/v6.9.js | node - add --global pnpm
+        run: npm install -g pnpm
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
