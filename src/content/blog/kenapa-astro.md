@@ -46,6 +46,6 @@ Astro memiliki [dokumentasi](https://docs.astro.build/en/getting-started/) yang 
 
 ## Kesimpulan
 
-Tiga alasan di atas adalah alasan utama saya memilih Astro sebagai engine untuk blog ini. Saya yakin, Astro akan menjadi salah satu static-site-generator yang paling banyak diminati di tahun 2023.
+Tiga alasan di atas adalah alasan utama saya memilih Astro sebagai engine untuk blog ini. Saya yakin, Astro akan menjadi salah satu static-site-generator yang paling banyak diminati dan digunakan oleh developer di seluruh dunia.
 
 Sekian tulisan saya kali ini, semoga bermanfaat. Terima kasih!
