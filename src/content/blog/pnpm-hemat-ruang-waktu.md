@@ -14,11 +14,17 @@ description: "PNPM adalah package manager baru untuk JavaScript yang menawarkan 
 
 > PNPM adalah package manager baru untuk JavaScript yang menawarkan banyak keuntungan dibandingkan dengan NPM dan Yarn.
 
-Halo, teman-teman! Pada tulisan ini saya akan membahas tentang PNPM, sebuah package manager untuk mengelola dependensi JavaScript. Seperti kita tahu, JavaScript merupakan bahasa pemrograman yang paling banyak digunakan di dunia saat ini, digunakan untuk membuat website, aplikasi web, aplikasi mobile, dan lain-lain. Saat ini, kita tahu bahwa untuk mengelola dependensi JavaScript yang populer, orang menggunakan NPM atau Yarn. Saya sendiri saat ini menggunakan Yarn untuk mengelola dependensi JavaScript. Namun, PNPM menarik perhatian saya karena PNPM menawarkan banyak keuntungan.
+Halo, teman-teman! Pada tulisan ini saya akan membahas tentang PNPM, sebuah package manager untuk mengelola dependensi [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript). Seperti kita tahu, JavaScript merupakan bahasa pemrograman yang paling banyak digunakan di dunia saat ini, digunakan untuk membuat website, aplikasi web, aplikasi mobile, dan lain-lain. Saat ini, kita tahu bahwa untuk mengelola dependensi JavaScript yang populer, orang menggunakan NPM atau Yarn. Saya sendiri saat ini menggunakan Yarn untuk mengelola dependensi JavaScript. Namun, PNPM menarik perhatian saya karena PNPM menawarkan banyak keuntungan.
 
 ## Apa itu PNPM?
 
-PNPM merupakan singkatan dari **P**lain **N**ode **P**ackage **M**anager. PNPM adalah package manager yang cepat dan efisien yang menjanjikan untuk mengurangi ruang dan waktu yang dibutuhkan untuk menginstal dependensi. PNPM menggunakan teknik symlink untuk mengelola dependensi. Teknik ini membuat PNPM dapat mengelola dependensi dengan lebih efisien dibandingkan dengan NPM dan Yarn.
+<div>
+  <a href="/assets/pnpm-no-name-with-frame.svg">
+    <img src="/assets/pnpm-no-name-with-frame.svg" class="sm:w-1/1 mx-auto" alt="Logo PNPM">
+  </a>
+</div>
+
+[PNPM](https://pnpm.io/) merupakan singkatan dari **P**lain **N**ode **P**ackage **M**anager. PNPM adalah package manager yang cepat dan efisien yang menjanjikan untuk mengurangi ruang dan waktu yang dibutuhkan untuk menginstal dependensi. PNPM menggunakan teknik symlink untuk mengelola dependensi. Teknik ini membuat PNPM dapat mengelola dependensi dengan lebih efisien dibandingkan dengan NPM dan Yarn.
 
 ## Apa yang membuat PNPM begitu istimewa?
 
