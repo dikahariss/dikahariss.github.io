@@ -28,17 +28,17 @@ Halo, teman-teman! Pada tulisan ini saya akan membahas tentang PNPM, sebuah pack
 
 ## Apa yang membuat PNPM begitu istimewa?
 
-### Efisiensi ruang penyimpanan
+### 1. Efisiensi ruang penyimpanan
 
 Berbeda dengan NPM dan Yarn, yang menginstal dependensi ke dalam folder `node_modules` untuk setiap proyek, PNPM menyimpan dependensi di dalam folder global. Setiap proyek hanya menyimpan symlink ke folder global. Hal ini membuat PNPM dapat mengelola dependensi dengan lebih efisien. Ini berarti jika beberapa proyek menggunakan dependensi yang sama, maka PNPM hanya perlu mengunduhnya sekali saja. Tetapi PNPM juga dapat mengelola dependensi secara lokal, seperti NPM dan Yarn.
 
 Hal ini dapat menghasilkan penghematan ruang yang signifikan dalam hal ruang penyimpanan dan waktu unduh. Misalnya, sebuah proyek dengan 50 dependensi bisa memakan hingga 500MB ruang penyimpanan dengan NPM atau Yarn, tetapi hanya 50MB dengan PNPM.
 
-### Instalasi lebih cepat
+### 2. Instalasi lebih cepat
 
 Keuntungan lain dari PNPM adalah kemampuannya untuk melakukan instalasi dependensi secara paralel. PNPM dapat mengunduh dan menginstal dependensi secara paralel, sehingga proses instalasi menjadi lebih cepat. PNPM juga memiliki dukungan built-in untuk hoisting, yang mengurangi duplikasi dependensi dan lebih menghemat ruang.
 
-### Benchmarks Package Managers
+***Benchmarks Package Managers***
 
 Berikut ini adalah hasil benchmark antara NPM, Yarn, dan PNPM:
 
@@ -48,7 +48,7 @@ Berikut ini adalah hasil benchmark antara NPM, Yarn, dan PNPM:
   </a>
 </div>
 
-### Instalasi lebih aman
+### 3. Instalasi lebih aman
 
 PNPM, seperti Yarn, memiliki file khusus dengan checksum semua package yang terinstal. Ini memastikan integritas semua package yang diinstal sebelum kode dijalankan. Ini juga memastikan bahwa semua package yang diinstal adalah yang diharapkan.
 
