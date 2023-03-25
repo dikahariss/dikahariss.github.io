@@ -27,9 +27,10 @@ Berdasarkan hasil survei State of JS 2022, Astro adalah salah satu static-site-g
 
 ## 2. Astro dirancang untuk performa yang baik
 
-Astro dirancang dengan arsitektur ***unique zero-JS frontend*** yang memungkinkan Astro untuk menghilangkan penggunaan JavaScript yang tidak diperlukan di bagian frontend. Hal ini membuat Astro lebih cepat, mengurangi waktu interaksi, dan meningkatkan performa secara keseluruhan.
+Astro dirancang dengan arsitektur **_unique zero-JS frontend_** yang memungkinkan Astro untuk menghilangkan penggunaan JavaScript yang tidak diperlukan di bagian frontend. Hal ini membuat Astro lebih cepat, mengurangi waktu interaksi, dan meningkatkan performa secara keseluruhan.
 
 Berikut ini merupakan hasil benchmarking [Astro](https://astro.build/) yang dibandingkan dengan beberapa static-site-generator lainnya:
+
 <div>
   <a href="/assets/astro-performance.png">
     <img src="/assets/astro-performance.png" class="sm:w-1/1 mx-auto" alt="Astro Performance Comparison">
@@ -40,9 +41,9 @@ Berikut ini merupakan hasil benchmarking [Astro](https://astro.build/) yang diba
 
 Astro memiliki [dokumentasi](https://docs.astro.build/en/getting-started/) yang sangat baik dan lengkap. Selain itu, Astro juga memiliki banyak resource tema yang bisa kita gunakan untuk membuat blog kita. Berikut ini adalah beberapa tema yang bisa kita gunakan untuk membuat blog kita:
 
-* [Sendit](https://astro.build/themes/details/sendit/) - Sendit adalah template yang memiliki desain yang rapi dan serbaguna, cocok untuk website marketing dan company profile.
-* [AstroPaper](https://astro.build/themes/details/astro-paper/) - AstroPaper adalah template yang memiliki desain yang sederhana dan minimalis, cocok untuk website personal dan blog.
-* [Astroship](https://astro.build/themes/details/astroship/) - Astroship adalah template yang memiliki desain rapi dan minimalis, cocok untuk website startup dan website marketing.
+- [Sendit](https://astro.build/themes/details/sendit/) - Sendit adalah template yang memiliki desain yang rapi dan serbaguna, cocok untuk website marketing dan company profile.
+- [AstroPaper](https://astro.build/themes/details/astro-paper/) - AstroPaper adalah template yang memiliki desain yang sederhana dan minimalis, cocok untuk website personal dan blog.
+- [Astroship](https://astro.build/themes/details/astroship/) - Astroship adalah template yang memiliki desain rapi dan minimalis, cocok untuk website startup dan website marketing.
 
 ## Kesimpulan
 

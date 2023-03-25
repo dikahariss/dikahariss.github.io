@@ -38,7 +38,7 @@ Hal ini dapat menghasilkan penghematan ruang yang signifikan dalam hal ruang pen
 
 Keuntungan lain dari PNPM adalah kemampuannya untuk melakukan instalasi dependensi secara paralel. PNPM dapat mengunduh dan menginstal dependensi secara paralel, sehingga proses instalasi menjadi lebih cepat. PNPM juga memiliki dukungan built-in untuk hoisting, yang mengurangi duplikasi dependensi dan lebih menghemat ruang.
 
-***Benchmarks Package Managers***
+**_Benchmarks Package Managers_**
 
 Berikut ini adalah hasil benchmark antara NPM, Yarn, dan PNPM:
 

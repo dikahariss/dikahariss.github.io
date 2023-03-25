@@ -2,7 +2,7 @@
 title: Optimasi Website untuk Pengguna Mobile
 author: Dika Haris Abdurahman
 pubDatetime: 2023-03-25T10:07:23Z
-postSlug: c
+postSlug: optimasi-website-pengguna-mobile
 featured: false
 draft: false
 tags:
@@ -12,7 +12,7 @@ tags:
 description: "Panduan untuk optimasi pengguna mobile, design web responsif, kemudahan & kenyamanan pengguna (mobile usability) dan lainnya."
 ---
 
-> Panduan untuk optimasi pengguna mobile, design web responsif, kemudahan & kenyamanan pengguna (*mobile usability*) dan lainnya.
+> Panduan untuk optimasi pengguna mobile, design web responsif, kemudahan & kenyamanan pengguna (_mobile usability_) dan lainnya.
 
 Halo, teman-teman! Pada tulisan ini saya sedikit berbagi pengalaman saya mengenai optimasi website untuk pengguna mobile.
 
@@ -24,13 +24,13 @@ Menurut [Optimizely](https://www.optimizely.com/optimization-glossary/website-op
 
 Untuk optimasi website, kita perlu memahami beberapa disiplin ilmu, diantaranya:
 
-* **SEO** (Search Engine Optimization) - Optimasi website untuk mesin pencari.
-* **Copywriting** - Penulisan konten yang baik dan menarik.
-* **Analytics** - Analisis data untuk mengetahui performa website.
-* **Design UI/UX** - Desain tampilan website untuk memaksimalkan pengalaman pengguna.
-* **Web Development** - Pengembangan website untuk meningkatkan kinerja website.
-* **Conversion Rate Optimization** - Optimasi website untuk meningkatkan konversi pengguna.
-* Dan lain-lain.
+- **SEO** (Search Engine Optimization) - Optimasi website untuk mesin pencari.
+- **Copywriting** - Penulisan konten yang baik dan menarik.
+- **Analytics** - Analisis data untuk mengetahui performa website.
+- **Design UI/UX** - Desain tampilan website untuk memaksimalkan pengalaman pengguna.
+- **Web Development** - Pengembangan website untuk meningkatkan kinerja website.
+- **Conversion Rate Optimization** - Optimasi website untuk meningkatkan konversi pengguna.
+- Dan lain-lain.
 
 ## Pentingnya Optimasi Website untuk Pengguna Mobile
 
@@ -40,7 +40,7 @@ Untuk optimasi website, kita perlu memahami beberapa disiplin ilmu, diantaranya:
   </a>
 </div>
 
-Penggunaan internet melalui perangkat mobile (*smartphone*) semakin meningkat di seluruh dunia. Menurut [Statista](https://www.statista.com/topics/779/mobile-internet/), pada tahun 2022, jumlah pengguna internet melalui perangkat mobile mencapai lima miliar, atau lebih dari 60 persen dari total populasi internet global.
+Penggunaan internet melalui perangkat mobile (_smartphone_) semakin meningkat di seluruh dunia. Menurut [Statista](https://www.statista.com/topics/779/mobile-internet/), pada tahun 2022, jumlah pengguna internet melalui perangkat mobile mencapai lima miliar, atau lebih dari 60 persen dari total populasi internet global.
 
 Pengguna mobile di seluruh dunia menghabiskan waktu online mereka untuk browsing web melalui perangkat mobile. Hal ini menunjukkan bahwa optimasi website untuk pengguna mobile sangat penting untuk memastikan website kita dapat diakses dengan mudah dan mendapatkan pengalaman pengguna yang baik.
 
