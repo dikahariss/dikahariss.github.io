@@ -32,7 +32,7 @@ Tailwind CSS juga memberikan fleksibilitas yang tinggi bagi penggunanya, sehingg
   </a>
 </div>
 
-Tailwind CSS menawarkan beberapa keunggulan dan membuatnya menjadi salah satu framework CSS yang paling populer saat ini.
+Tailwind CSS menawarkan beberapa keunggulan yang membuatnya menjadi salah satu framework CSS yang paling populer saat ini.
 
 ### Keunggulan Tailwind CSS
 
