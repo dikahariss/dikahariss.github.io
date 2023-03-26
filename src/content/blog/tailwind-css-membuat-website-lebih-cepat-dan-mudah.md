@@ -9,10 +9,10 @@ tags:
   - css
   - tailwind
   - framework
-description: "Buat tampilan website yang modern, cepat, dan mudah dengan pendekatan utility-first CSS menggunakan Tailwind CSS."
+description: "Buat tampilan website yang modern, cepat, dan mudah dengan pendekatan utility-first menggunakan Tailwind CSS."
 ---
 
-> Buat tampilan website yang modern, cepat, dan mudah dengan pendekatan _utility-first_ CSS menggunakan Tailwind CSS.
+> Buat tampilan website yang modern, cepat, dan mudah dengan pendekatan _utility-first_ menggunakan Tailwind CSS.
 
 Halo, teman-teman! Pada tulisan ini saya ingin merekomendasikan Tailwind CSS dalam pembuatan website atau aplikasi web.
 
