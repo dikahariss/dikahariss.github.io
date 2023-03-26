@@ -72,11 +72,11 @@ Untuk memastikan website kita sudah responsif, kita bisa menggunakan alat sepert
 
 Pengguna mobile cenderung ingin membaca konten yang mudah dibaca dan terlihat jelas di layar perangkat mereka. Oleh karena itu, kita pastikan konten yang dibuat sudah terstruktur dengan baik dan mudah dibaca. Hindari penggunaan font yang terlalu kecil dan pastikan warna teks dan latar belakang kontras.
 
-Untuk meningkatkan kualitas konten, kita bisa menggunakan teknik Copywriting untuk meningkatkan kualitas konten. Sehingga konten yang kita buat dapat menarik perhatian dan membuat pengguna tertarik untuk membaca konten kita.
+Untuk meningkatkan kualitas konten, kita bisa menggunakan teknik Copywriting. Sehingga konten yang kita buat dapat menarik perhatian dan membuat pengguna tertarik untuk membaca konten kita.
 
 ### 4. Gunakan Media yang Sesuai
 
-Pemilihan media seperti gambar, video, dan lainnya harus dapat diakses dengan baik pada perangkat mobile. Pastikan ukuran media yang digunakan tidak terlalu besar dan pastikan file media sudah di-optimalkan aagar dapat diakses dengan cepat.
+Pemilihan media seperti gambar, video, audio, dan lainnya harus dapat diakses dengan baik pada perangkat mobile. Pastikan ukuran media yang digunakan tidak terlalu besar dan pastikan file media sudah di-optimalkan agar dapat diakses dengan cepat.
 
 ## Kesimpulan
 
