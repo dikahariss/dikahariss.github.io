@@ -15,6 +15,9 @@ const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
 
+const currentYear = new Date().getFullYear();
+const expirience = currentYear - 2011;
+
 const socialCount = SOCIALS.filter(social => social.active).length;
 ---
 
@@ -41,7 +44,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
       <p class="text-start">
         Halo, salam kenal. saya <strong>Dika Haris Abdurahman</strong> (@dikahariss)
-        seorang Software Engineer, dan co-founder dari Jabar Cipta Informatika.
+        seorang Software Engineer, dan sudah berpengalaman lebih dari {
+          expirience
+        }+ tahun.
       </p>
       {
         // only display if at least one social link is enabled
