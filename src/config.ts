@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://dikaharis.com",
   author: "Dika Haris Abdurahman",
-  desc: "Halo, salam kenal. saya Dika Haris Abdurahman (@dikahariss) seorang Software Engineer, dan sudah berpengalaman lebih dari 12+ tahun.",
+  desc: "Halo, salam kenal. saya Dika Haris Abdurahman (@dikahariss) seorang Software Engineer yang sudah berpengalaman lebih dari 12+ tahun.",
   title: "Dika Haris Abdurahman (@dikahariss) | dikaharis.com",
   ogImage: "dikahariss.jpeg",
   lightAndDarkMode: true,
