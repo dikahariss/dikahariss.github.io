@@ -7,6 +7,8 @@ Halo, saya **Dika Haris Abdurahman**, beberapa orang biasanya memanggil saya den
 
 Saya memiliki pengalaman dalam berbagai bidang IT, mulai dari pengembangan aplikasi web, mobile, data warehouse atau data lake, hingga integrasi antar sistem seperti SAP, Sistem Informasi PNBP Online (SIMPONI), Midtrans dan lainnya.
 
+## Cerita Singkat Saya
+
 Tahun 2009, saya lulus dari **Sekolah Menengah Kejuruan (SMK) Negeri 2 Sumedang** dengan jurusan **Rekayasa Perangkat Lunak (RPL)**. Setelah itu, saya diberikan pilihan oleh orang tua untuk melanjutkan ke jenjang pendidikan yang lebih tinggi atau dibelikan kendaraan roda dua. Dan saya memilih untuk dibelikan (kredit) kendaraan roda dua, karena pada saat itu saya sangat menginginkan motor. 😁
 
 Karna pilihan itu saya harus berkerja untuk membayar cicilan-nya. Untung saja perusahaan tempat dulu saya PKL (Praktek Kerja Lapangan) atau magang, membutuhkan Web Developer. Dan saya pun mulai bekerja di perusahaan IT Konsultan **PT. Cakrawala Global Informatika** dari tahun 2009 hingga 2014. Diperusahaan ini saya belajar banyak hal, mulai dari belajar framework PHP yang populer saat itu CodeIgniter, merancang database, merancang sistem informasi seperti sistem informasi rumah sakit, sistem informasi kepegawaian, sistem informasi perencaan keuangan, dan lain-lain. Diperusahaan ini juga saya diberikan resource seperti buku-buku yang berkualitas yang harga belinya lumayan mahal. Dan saya juga dapat memperluas jaringan saya dengan beberapa tenaga ahli yang kebanyakan dosen.
