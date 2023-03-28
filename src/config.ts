@@ -26,7 +26,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Facebook",
-    href: "https://facebook.com/dikahariss",
+    href: "https://facebook.com/dikaharis.id",
     linkTitle: `${SITE.title} on Facebook`,
     active: true,
   },
